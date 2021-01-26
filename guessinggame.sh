@@ -17,3 +17,4 @@ do
 done 
 
 echo "congratz for guessing the right number!"
+echo end
